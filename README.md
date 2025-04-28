@@ -1,6 +1,7 @@
 # Building-Footprint (Work-in-progress)
 
 This project is part of my research paper, "Develop or Distribute? The Higher Authority's Role in Fiscal Competition" (W. Park, 2025; Expected).
+Link (The Most Recent Update): https://www.wooserkpark.com/selectedpapers/californiaTIF/summary
 
 ### Examples (California):
 
