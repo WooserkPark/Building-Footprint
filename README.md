@@ -23,7 +23,6 @@ Dogers Stadium
 ![Dodgers Stadium 1 3D](https://github.com/user-attachments/assets/eb031cbd-fa16-4f0f-8abb-b3ba71c12cdc)
 
 #### Height Extraction
-![03 NED Raster](https://github.com/user-attachments/assets/a730bf2d-d8f4-439b-91a2-48973d662705)
 ![04_LiDAR_1 resize](https://github.com/user-attachments/assets/90882a5e-a23f-4041-839c-74d3dbd409ee)
 ![04_LiDAR_2 resize](https://github.com/user-attachments/assets/586aff01-18bc-4953-9dda-c243c6df1348)
 ![04_LiDAR_3 resize](https://github.com/user-attachments/assets/30b9c176-d63c-4425-9f9e-f8e712055e8e)
