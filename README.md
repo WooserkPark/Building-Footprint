@@ -5,8 +5,7 @@ Link (recent update): https://www.wooserkpark.com/selectedpapers/californiaTIF/s
 
 ### Examples (California):
 
-#### Residential Density
-
+#### Residential & Commercial Density
 Los Angeles
 ![02_County_RDA_Successor Location_LA_new resize](https://github.com/user-attachments/assets/ac3cffc4-49c3-4783-b356-3a5e13662ccc)
 
