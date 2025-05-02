@@ -8,28 +8,26 @@ Link (recent update): https://www.wooserkpark.com/selectedpapers/californiaTIF/s
 #### Residential Density
 
 Los Angeles
-![02_County_RDA_Successor Location_Cities_SchoolDistrict_Density_LA2_cl](https://github.com/user-attachments/assets/1a16d4f2-24e1-48bd-a840-4b0646df757e)
+![02_County_RDA_Successor Location_LA_new resize](https://github.com/user-attachments/assets/ac3cffc4-49c3-4783-b356-3a5e13662ccc)
 
-San Francisco
-![02_County_RDA_Successor Location_Cities_SchoolDistrict_Density_SF2_cl](https://github.com/user-attachments/assets/79e554df-d564-448d-8ec8-4f3fcb312e27)
+Silicon Valley
+![02_County_RDA_Successor Location_SiliconValley_new resize](https://github.com/user-attachments/assets/828cb3fa-f7cd-4435-9566-d6c2bf999f63)
 
-#### Height Extraction
+#### Building Footprint Credibility (OpenCityModel vs. Microsoft)
+![05_buildingfootprint_OCM_Microsoft resize](https://github.com/user-attachments/assets/9909e083-e978-47fa-8f7a-f1fc76fb0998)
+
+#### Height Extraction and Comparison (LiDAR vs. OpenCityModel)
 ![04_LiDAR_1 resize](https://github.com/user-attachments/assets/90882a5e-a23f-4041-839c-74d3dbd409ee)
 ![04_LiDAR_2 resize](https://github.com/user-attachments/assets/586aff01-18bc-4953-9dda-c243c6df1348)
-![04_LiDAR_3 resize](https://github.com/user-attachments/assets/30b9c176-d63c-4425-9f9e-f8e712055e8e)
-![04_LiDAR_3 resize with building](https://github.com/user-attachments/assets/8e18876a-36a1-495b-8ff8-257422ef289e)
+![05_buildingfootprint_OCM_LiDAR resize](https://github.com/user-attachments/assets/e815710f-10c6-469b-9888-68223388a53a)
 
-#### 3D Plots
+#### 3D Plots (LiDAR vs. OpenCityModel)
+![05_buildingfootprint_OCM_3D_LiDAR cl resize](https://github.com/user-attachments/assets/92c37fd6-98f8-4274-8acc-d06273b082c2)
+![05_buildingfootprint_OCM_3D cl resize](https://github.com/user-attachments/assets/1e66048c-7deb-4c11-b159-a645bc431da6)
 
-Los Angeles City Hall
-![Los Angeles City Hall 1](https://github.com/user-attachments/assets/f8896320-497e-4643-98f8-0035ebed986a)
-![Los Angeles City Hall 1 3D](https://github.com/user-attachments/assets/48173831-b5ec-425d-a82c-2d0de7b6497d)
-
-Dogers Stadium
-![Dodgers Stadium 1](https://github.com/user-attachments/assets/c2f647ad-df55-4487-958a-ba46faa53b7e)
-![Dodgers Stadium 1 3D](https://github.com/user-attachments/assets/eb031cbd-fa16-4f0f-8abb-b3ba71c12cdc)
-
-
+#### Land Development Calculation (National Land Cover Database)
+![Land Cover 2011 resize](https://github.com/user-attachments/assets/4df4c09f-9552-4a22-b77a-97667252aeaf)
+![Land Cover 2011_3_Medium Intensity_Treatment resize](https://github.com/user-attachments/assets/51c49f67-dc4b-470c-bf14-ddf6b0310595)
 
 #### School Locations
 ![Los Angeles School 3](https://github.com/user-attachments/assets/3dba57f9-2e77-47df-aecb-d8aedd860112)
