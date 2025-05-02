@@ -14,7 +14,7 @@ Silicon Valley
 ![02_County_RDA_Successor Location_SiliconValley_new resize](https://github.com/user-attachments/assets/828cb3fa-f7cd-4435-9566-d6c2bf999f63)
 
 #### Building Footprint Credibility (OpenCityModel vs. Microsoft)
-![05_buildingfootprint_OCM_Microsoft resize](https://github.com/user-attachments/assets/9909e083-e978-47fa-8f7a-f1fc76fb0998)
+![05_buildingfootprint_OCM_Microsoft cl](https://github.com/user-attachments/assets/80a8f990-819b-4eef-817d-6ca0ee3cc830)
 
 #### Height Extraction and Comparison (LiDAR vs. OpenCityModel)
 ![04_LiDAR_1 resize](https://github.com/user-attachments/assets/90882a5e-a23f-4041-839c-74d3dbd409ee)
