@@ -28,6 +28,3 @@ Silicon Valley
 #### Land Development Calculation (National Land Cover Database)
 ![Land Cover 2011 resize](https://github.com/user-attachments/assets/4df4c09f-9552-4a22-b77a-97667252aeaf)
 ![Land Cover 2011_3_Medium Intensity_Treatment resize](https://github.com/user-attachments/assets/51c49f67-dc4b-470c-bf14-ddf6b0310595)
-
-#### School Locations
-![Los Angeles School 3](https://github.com/user-attachments/assets/3dba57f9-2e77-47df-aecb-d8aedd860112)
